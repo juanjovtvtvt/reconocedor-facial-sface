@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+datos/rostros/
+datos/entrenador.yml
+datos/personas.json
+datos/rostros_sface/
+datos/galeria_sface.npz
+app_lbph_anterior.py
+app_opencv_anterior.py
